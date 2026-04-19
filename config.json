@@ -1,0 +1,11 @@
+{
+  "project_dir": "T:/AnsysPrj",
+  "output_dir": "T:/py_prj/AIHFSS/output",
+  "threshold": -10.0,
+  "use_ai": true,
+  "lm_url": "http://localhost:1234",
+  "close_hfss": true,
+  "keep_temp": false,
+  "generate_report": true,
+  "last_file_dir": "T:/AnsysPrj"
+}
